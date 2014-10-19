@@ -1,0 +1,5 @@
+#!/home/vvv/Enthought/Canopy_64bit/User/lib/python2.7/microblog/flask/bin/python
+if __name__ == '__main__':
+    import sys, pydoc
+    sys.exit(pydoc.cli())
+
